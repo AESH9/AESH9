@@ -1,4 +1,4 @@
-Hi, I’m Anderson Ruan 
+Ola, Sou Anderson Ruan em rogresso para Desenvolvedor Full Stack Jr.
 
 <div align="center">
   <a href="https://github.com/AESH9">

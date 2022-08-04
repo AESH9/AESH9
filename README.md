@@ -1,4 +1,4 @@
-Ola, Sou Anderson Ruan a um passo de ser Desenvolvedor Full Stack Jr.
+Ola, Sou Anderson Desenvolvedor Full Stack Jr.
 
 <div align="center">
   <a href="https://github.com/AESH9">
